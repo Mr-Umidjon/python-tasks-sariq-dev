@@ -47,12 +47,4 @@ for car in cars:
 
 
 
-
-
-
-
-
-
-
-
-    
+ 

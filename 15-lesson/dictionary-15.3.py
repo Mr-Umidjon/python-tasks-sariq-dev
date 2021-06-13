@@ -20,3 +20,5 @@ davlatlar = {
 davlat = input("Qaysi davlatni potaxtini bilishni istaysiz ").lower()
 poytaxt = davlatlar.get(davlat, "Bizda bu haqida ma'lumot yo'q")
 print(poytaxt.capitalize())
+
+

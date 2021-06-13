@@ -26,3 +26,4 @@ print("Davlatlar poytaxtlari :")
 for p in sorted(davlatlar.values()):
     print(p.title())
     
+

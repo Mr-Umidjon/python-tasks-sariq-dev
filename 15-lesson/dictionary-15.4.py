@@ -18,4 +18,8 @@ for buyurtma in buyurtmalar:
     else:
         print(f"Kechirasiz, bizda {buyurtma} yo'q.")
 
-    
+ 
+
+
+
+   

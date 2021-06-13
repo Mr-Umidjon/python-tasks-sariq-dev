@@ -13,3 +13,7 @@ kalit = input("Kalit so'zni kiriting: ")
 tarjima = izohli_lugat.get(kalit, 'Bunday so\'z mavjud emas ').capitalize()
 print(tarjima)
 
+
+
+
+

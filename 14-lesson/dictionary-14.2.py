@@ -10,3 +10,6 @@ taomlar = {'sherzodbek':'shavli', 'maxfuza':'mastva', 'dilfuza':'qovirma',\
 for taom in taomlar:
     
     print(f"{taom.title()}ning sevimli taomi {taomlar[taom]}")
+    
+    
+    

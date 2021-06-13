@@ -11,3 +11,5 @@ izohli_lugat = {'integer':'butun son', "float":"xaqiqiy son", 'string':"matn",\
                 'github':'dasturlash sayti'}
 for k, q in izohli_lugat.items():
     print(f"{k.title()} - {q.capitalize()}")
+    
+    

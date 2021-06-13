@@ -13,3 +13,8 @@ if kalit.lower() in izohli_lugat:
     print(f"{kalit.title()}, {izohli_lugat[kalit].capitalize()}")
 else:
     print("Bunday so'z mavjud emas ")
+    
+    
+    
+    
+    
